@@ -37,6 +37,13 @@ Currently focused on enhancing dataset reliability for autonomous driving models
 🔒 Reduced system vulnerabilities by 30%  
 ⚡ Improved server response time by 15%  
 
+## 📚 Education
+
+**AGH University of Science and Technology**  
+*B.Sc Computer Science (2021-2025)*  
+📍 Kraków, Poland | GPA: 4.5/5.0  
+🎓 Dissertation: "Low-Latency Object Detection in Autonomous Vehicles" (5.0/5.0)
+
 ## 🏆 Projects
 
 ### [Low-Latency Object Detection](https://github.com/aidankst)
@@ -49,12 +56,6 @@ Currently focused on enhancing dataset reliability for autonomous driving models
 - Features: Client management, automated invoicing, email notifications  
 - **Tech**: Flask | PostgreSQL | Python
 
-## 📚 Education
-
-**AGH University of Science and Technology**  
-*B.Sc Computer Science (2021-2025)*  
-📍 Kraków, Poland | GPA: 4.5/5.0  
-🎓 Dissertation: "Low-Latency Object Detection in Autonomous Vehicles" (5.0/5.0)
 
 ## 📬 Get in Touch
 
