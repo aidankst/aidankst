@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Kaung Sithu
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=64FFDA&center=true&vCenter=true&width=435&lines=Machine+Learning+Research+Intern;Data+Alchemist;Full-Stack+Developer;AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=64FFDA&center=true&vCenter=true&width=435&lines=Machine+Learning+Research+Intern;Data+Alchemist;AI+Enthusiast" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
